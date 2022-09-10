@@ -1,12 +1,17 @@
 # Actionscript-3.0-battery-percentage-reader
 
 Parts list instructions:
+
 Computer: ESP32 Wrover
+
 Dock: ESP32 WROVER programmer dock
+
 component: "voltage sensor (vcc<25v)" 
+
 description: The voltage sensor has a screwable section to add a battery for reading, and 3 header pins that go to your microcontroller.
 
 Batteries used: (add your own battery and modify 876 in the "battery percent.fla")
+
 "3.7v 100mah lipo" is set to have a 100% value when the microcontroller outputs: 876
 
 Wiring instructions for sensor side (3 pins):
