@@ -12,6 +12,7 @@ Batteries used: (add your own battery and modify 876 in the "battery percent.fla
 Wiring instructions for sensor side (3 pins):
 
 voltage sensor(Data) = IO33 esp32
+
 voltage sensor (+) = NOT CONNECTED / NC
 
 voltage sensor(-) = gnd esp32
@@ -19,9 +20,11 @@ voltage sensor(-) = gnd esp32
 Wiring instructions for sensor side (2 pins):
 
 battery(+) = (VCC) sensor
+
 sensor GND(-) = (GND) esp32
 
 Wiring instructions for battery:
+
 battery(-) = (IO13) esp32
 
 
