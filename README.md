@@ -1,3 +1,8 @@
+Updated the repository for AS3 v3.38.0. This release contains the following changes. See the Document revision history for more information and links.
+
+Added support for referencing a data group from an external URL with token authentication
+Added support for SMTPS profiles in a declaration (GitHub Issue #598)
+
 # Actionscript-3.0-battery-percentage-reader
 
 Parts list instructions:
